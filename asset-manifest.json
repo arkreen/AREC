@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.d6c08ee1.chunk.js": "./static/js/0.d6c08ee1.chunk.js",
     "static/js/0.d6c08ee1.chunk.js.map": "./static/js/0.d6c08ee1.chunk.js.map",
-    "main.js": "./static/js/main.4350e12a.chunk.js",
-    "main.js.map": "./static/js/main.4350e12a.chunk.js.map",
+    "main.js": "./static/js/main.6ee61afb.chunk.js",
+    "main.js.map": "./static/js/main.6ee61afb.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.46698e89.js",
     "runtime-main.js.map": "./static/js/runtime-main.46698e89.js.map",
     "static/css/3.4bf6805c.chunk.css": "./static/css/3.4bf6805c.chunk.css",
@@ -20,7 +20,7 @@
     "static/js/8.5dd886b6.chunk.js": "./static/js/8.5dd886b6.chunk.js",
     "static/js/8.5dd886b6.chunk.js.map": "./static/js/8.5dd886b6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d99bcdc77f6e72d133c2b13f9db0a2c8.js": "./precache-manifest.d99bcdc77f6e72d133c2b13f9db0a2c8.js",
+    "precache-manifest.ad7b6b95c8b7bdec57538ed5d0179a9e.js": "./precache-manifest.ad7b6b95c8b7bdec57538ed5d0179a9e.js",
     "service-worker.js": "./service-worker.js",
     "static/css/3.4bf6805c.chunk.css.map": "./static/css/3.4bf6805c.chunk.css.map",
     "static/js/3.ddd82ec2.chunk.js.LICENSE.txt": "./static/js/3.ddd82ec2.chunk.js.LICENSE.txt",
@@ -34,7 +34,7 @@
     "static/media/arrow-right.svg": "./static/media/arrow-right.d285b6cf.svg",
     "static/media/avalanche-logo.png": "./static/media/avalanche-logo.2565884a.png",
     "static/media/big_unicorn.png": "./static/media/big_unicorn.3de55567.png",
-    "static/media/blue-loader.svg": "./static/media/blue-loader.904b44c2.svg",
+    "static/media/blue-loader.svg": "./static/media/blue-loader.1c704a22.svg",
     "static/media/circle-grey.svg": "./static/media/circle-grey.ed2a1dad.svg",
     "static/media/circle.svg": "./static/media/circle.2d975615.svg",
     "static/media/coinbaseWalletIcon.svg": "./static/media/coinbaseWalletIcon.62578f59.svg",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.46698e89.js",
     "static/css/3.4bf6805c.chunk.css",
     "static/js/3.ddd82ec2.chunk.js",
-    "static/js/main.4350e12a.chunk.js"
+    "static/js/main.6ee61afb.chunk.js"
   ]
 }
