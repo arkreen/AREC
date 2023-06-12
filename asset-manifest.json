@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.15475bbc.chunk.js",
-    "main.js.map": "./static/js/main.15475bbc.chunk.js.map",
+    "main.js": "./static/js/main.aae639c8.chunk.js",
+    "main.js.map": "./static/js/main.aae639c8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c4c06330.js",
     "runtime-main.js.map": "./static/js/runtime-main.c4c06330.js.map",
     "static/css/2.9b452423.chunk.css": "./static/css/2.9b452423.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
     "static/media/fantom-logo.40755d1e.png": "./static/media/fantom-logo.40755d1e.png",
     "static/media/heco-logo.d9d231e5.png": "./static/media/heco-logo.d9d231e5.png",
-    "static/media/logo.3719189f.svg": "./static/media/logo.3719189f.svg",
+    "static/media/logo.aae354a6.svg": "./static/media/logo.aae354a6.svg",
     "static/media/matic-logo.1140771b.png": "./static/media/matic-logo.1140771b.png",
     "static/media/metamask.02e3ec27.png": "./static/media/metamask.02e3ec27.png",
     "static/media/noise.0473ebbb.png": "./static/media/noise.0473ebbb.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.c4c06330.js",
     "static/css/2.9b452423.chunk.css",
     "static/js/2.274b813b.chunk.js",
-    "static/js/main.15475bbc.chunk.js"
+    "static/js/main.aae639c8.chunk.js"
   ]
 }
