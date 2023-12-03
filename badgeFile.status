@@ -1,5 +1,5 @@
 {
-  "number_of_files": 999,
+  "number_of_files": 1000,
   "all_file_info": {
     "AREC_Badge_000001": "bafybeib4tc6gqlk5bdrhcqwkhu3zt64fxpynztwxa5c4qj3wkwimuw43oi",
     "AREC_Badge_000002": "bafybeich2wqcnhwwiee5432obbdxlynncd6xai4rdhjz7ihnfl3a6rl7wa",
@@ -999,6 +999,7 @@
     "AREC_Badge_000996": "bafybeiaogqo4wub6idx7hfsoqotvou52xnk6lr6asvndyp433vmg5d4jv4",
     "AREC_Badge_000997": "bafybeicq4etcerzub6qmea5yxgzaqvcz3we7akd4z6em44qmeqgsxuztpa",
     "AREC_Badge_000998": "bafybeiasr57k3i7ffxkofbhxtjesi3hlahenzj3nwffvmqtcrauj3wkdt4",
-    "AREC_Badge_000999": "bafybeigbbaizgsdrcqo4etpa2yin5gtfyil6zrjbgufhgs2fevidnpc4ly"
+    "AREC_Badge_000999": "bafybeigbbaizgsdrcqo4etpa2yin5gtfyil6zrjbgufhgs2fevidnpc4ly",
+    "AREC_Badge_001000": "bafybeie5mh2fs5guociivzqwtrcwgnunwxb2ydpyscwv65n7aovbcyas5m"
   }
 }
