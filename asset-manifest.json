@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.fa680e49.css",
-    "main.js": "./static/js/main.8a430aa9.js",
+    "main.js": "./static/js/main.cafe591f.js",
     "static/js/141.80fdbeb3.chunk.js": "./static/js/141.80fdbeb3.chunk.js",
     "static/js/63.6afa7b44.chunk.js": "./static/js/63.6afa7b44.chunk.js",
     "static/js/728.9eaf6fe8.chunk.js": "./static/js/728.9eaf6fe8.chunk.js",
@@ -60,8 +60,8 @@
     "static/media/arkreen_b.png": "./static/media/arkreen_b.60e9a632c1003c79c27e.png",
     "static/media/walletConnectIcon.svg": "./static/media/walletConnectIcon.304e327744ae5c9b1b62b58f50df6734.svg",
     "static/media/logo.svg": "./static/media/logo.aae354a6413a7cbf25c751372cf98e7d.svg",
-    "static/media/polygon-matic-logo.svg": "./static/media/polygon-matic-logo.97ff139cc7379a42cf141d74a6595fff.svg",
     "index.html": "./index.html",
+    "static/media/polygon-matic-logo.svg": "./static/media/polygon-matic-logo.97ff139cc7379a42cf141d74a6595fff.svg",
     "static/media/celo_logo.svg": "./static/media/celo_logo.e95fad7be41e27771a1729f111f11ec9.svg",
     "static/media/celo_square_logo.svg": "./static/media/celo_square_logo.2ca4ce8b181980cb6ca8b5809319ec49.svg",
     "static/media/x.svg": "./static/media/x.3307687632e23d3e857283ab00b3ef3a.svg",
@@ -69,7 +69,7 @@
     "static/media/arrow-right.svg": "./static/media/arrow-right.956d575c1774e33a02857310f0ccc7fe.svg",
     "static/media/dropdown.svg": "./static/media/dropdown.fef18eeb100831b750bb2101c7ed956f.svg",
     "main.fa680e49.css.map": "./static/css/main.fa680e49.css.map",
-    "main.8a430aa9.js.map": "./static/js/main.8a430aa9.js.map",
+    "main.cafe591f.js.map": "./static/js/main.cafe591f.js.map",
     "141.80fdbeb3.chunk.js.map": "./static/js/141.80fdbeb3.chunk.js.map",
     "63.6afa7b44.chunk.js.map": "./static/js/63.6afa7b44.chunk.js.map",
     "728.9eaf6fe8.chunk.js.map": "./static/js/728.9eaf6fe8.chunk.js.map",
@@ -77,6 +77,6 @@
   },
   "entrypoints": [
     "static/css/main.fa680e49.css",
-    "static/js/main.8a430aa9.js"
+    "static/js/main.cafe591f.js"
   ]
 }
